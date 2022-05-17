@@ -1,6 +1,5 @@
 ---
-# description: 'ddd',
 title: NestJS,
-author: 小乔,
+author: yikou,
 date: '2022-01-05'
 ---
