@@ -4,7 +4,7 @@ heroImage: https://gimg2.baidu.com/image_search/src=http%3A%2F%2Finews.gtimg.com
 actionText: Get Started →
 actionLink: /node/nest/nest
 features:
-- title: study every day !!!!
+- title: study every day !
   details: 记录前端路上的.
 - title: 前端成长之路
   details: 专注前端技术栈分享，涉及前端、Node、Linux、数据库等，希望我们都能成为优秀的全栈开发工程师
